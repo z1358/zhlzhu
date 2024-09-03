@@ -149,7 +149,6 @@ analytics:
   google:
     tracking_id          :
 
-
 # Reading Files
 include:
   - .htaccess
